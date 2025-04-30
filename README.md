@@ -29,4 +29,4 @@ Sending the value "0" turns the LED OFF.
 The Serial Monitor simulates a mobile app sending commands via Bluetooth or Wi-Fi.
 
 #Output
-
+![Image](https://github.com/user-attachments/assets/1a2f8d2b-9e11-4682-8b8b-d7b3a65d1b09)
